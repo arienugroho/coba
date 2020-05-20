@@ -1,1 +1,2 @@
-1.Perancangan Databsae untuk Penunjang Jeputusan Dengan Metode Fuzzy
+1.Perancangan Databsae untuk Penunjang Keputusan Dengan Metode Fuzzy
+2.Perancangan Databsae untuk Penunjang Keputusan Dengan Metode SAW
